@@ -1,0 +1,54 @@
+name: task
+description: "A Flutter e-commerce app for internship task."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # 🔥 Firebase
+  firebase_core: ^2.31.0
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.7
+  firebase_storage: ^11.6.9
+  carousel_slider: ^4.2.1
+
+  # 📦 State Management & Architecture
+  flutter_bloc: ^8.1.3
+  equatable: ^2.0.5
+  get_it: ^7.6.4
+
+  # 🧠 Local Storage
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/nawel.png
+    - assets/images/onboarding.png
+    - assets/images/burger.png
+    - assets/images/health.png
+    - assets/images/Groceries.png
+    - assets/images/past.png
+    - assets/images/must.png
+    - assets/images/best.png
+    - assets/images/give.png
+    - assets/images/vault.png
+    - assets/images/slider.png
+    - assets/images/Allo.png
+    - assets/images/laffah.png
+    - assets/images/falafl.png
+    - assets/images/barber.png
+
