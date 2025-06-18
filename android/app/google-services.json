@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521345334447",
+    "project_id": "auvnet-internship-assess-9a3a6",
+    "storage_bucket": "auvnet-internship-assess-9a3a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521345334447:android:b788ecff6d1c8f41a8a85a",
+        "android_client_info": {
+          "package_name": "com.company.Task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeY1CAkrz4Ud0UyXEwaBF2YPKfc_lBV3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521345334447:android:2855e47ba0d0b943a8a85a",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeY1CAkrz4Ud0UyXEwaBF2YPKfc_lBV3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
